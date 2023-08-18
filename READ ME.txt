@@ -1,1 +1,0 @@
-To run Grandma's House it is required to download all of the HTML files and to play it properly it is reccomended to start on the file Start Grandma's House.html so you can play the game to it's fullest. You can modify this game in any way since it is written in very basic HTML and it cost me $0 to make. So I hope you enjoy!
